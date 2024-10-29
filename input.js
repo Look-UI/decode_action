@@ -10,6 +10,7 @@
 export chinaTelecomAccount="13888888888#123456"
 
 cron: 37 11 * * *
+
 const $ = new Env("电信兑换签到话费");
 */
 const _0x503289 = _0x2473fd("电信兑换签到话费"),
